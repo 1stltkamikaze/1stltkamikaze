@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1stltkamikaze
 - 👀 I’m interested in game effect design and game visual design
-- 🌱 I’m currently learning Uniy and DCC tool
+- 🌱 I’m currently learning Uniy and UE4 and DCC tool
 - 💞️ I’m looking to collaborate on game design
 - 📫 How to reach me honkyproduction@gmail.com
 
